@@ -70,7 +70,7 @@ left: 0px;
 }
 #home::before{
     content: "";
-    background : url('./img/b6.jpg')no-repeat center center/cover ;
+    background : url('../img/b6.jpg')no-repeat center center/cover ;
  
     position: absolute;
     height: 752px;
